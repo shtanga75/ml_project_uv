@@ -4,13 +4,21 @@
 
 ml_project_uv/
 ├── app/
+
 │   └── main.py
+
 ├── requirements_ML.txt
-├── requirements_service.txt  
+
+├── requirements_service.txt 
+
 ├── requirements_jupyter.txt
+
 ├── pyproject.toml
+
 ├── .gitignore
+
 ├── README.md
+
 └── .python-version
 
 ## Шаги по установке
