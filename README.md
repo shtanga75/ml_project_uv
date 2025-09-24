@@ -55,7 +55,7 @@ pip install -r requirements_ML.txt
 pip install -r requirements_service.txt
 pip install -r requirements_jupyter.txt
 ```
-![UV4](screens\UV4.jpg)
+<img src="screens\UV4.jpg" alt="UV3" style="zoom:67%;" />
 
 Проверка установленных пакетов
 
@@ -63,7 +63,7 @@ pip install -r requirements_jupyter.txt
 pip list
 ```
 
-​	![UV5](screens\UV5.jpg)
+​	<img src="screens\UV5.jpg" alt="UV3" style="zoom:67%;" />
 
 <img src="screens\UV6.jpg" alt="UV6" style="zoom: 80%;" />
 
